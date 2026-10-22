@@ -52,3 +52,7 @@ Years in pharmaceutical sales and key account management, plus hands-on clinical
 ---
 
 💫 *Always learning, always building.*
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-al-iqabi-7098692a4/)
